@@ -31,6 +31,8 @@
 
 # THIS IS ONLY INTENDED FOR DEVELOPMENT USAGE
 
+corepack enable
+corepack use pnpm@*
 pnpm install
 pnpm run build
 pnpm run package:discover
