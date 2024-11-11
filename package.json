@@ -48,6 +48,7 @@
     "@osjs/settings-application": "^1.1.8",
     "@osjs/standard-theme": "^4.0.9",
     "@osjs/textpad-application": "^1.2.7",
+    "@osjs/osjs-terminal-application": "git+https://github.com/os-js/osjs-terminal-application.git",
     "hyperapp": "^1.2.10",
     "typeface-roboto": "0.0.75"
   },
